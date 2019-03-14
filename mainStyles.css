@@ -1,0 +1,22 @@
+html{
+    min-width: 1280px;
+    min-height: 720px;
+    overflow: auto;
+    font-family: 'Poppins', sans-serif;
+    color: #38003C;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+#vis {
+    background: #FFFFFF;
+    display: block;
+    width: 90%;
+    height: 100%;
+    min-width: 800px;
+    min-height: 500px;
+    /*box-sizing: border-box;*/
+    margin: auto;
+}
